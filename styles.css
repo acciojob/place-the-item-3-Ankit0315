@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+	
+}
+.one{
+	width:80px;
+	height:80px;
+	background-color:green;
+}
+.two{
+	width:80px;
+	height:80px;
+	background-color:red;
+}
+.three{
+	width:80px;
+	height:80px;
+	background-color:blue;
+}
